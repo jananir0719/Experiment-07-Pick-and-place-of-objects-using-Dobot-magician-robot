@@ -32,11 +32,13 @@ Dobot Magician Robot 1.Controller / Power supply 2.Gripper or suction cup 3.Obje
 
 12.Move the robot back to the Home position.
 
+13.Run the programmed sequence and verify that the object is successfully picked and placed.
+
 # RESULT:
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d7f84a21-0f43-4533-8591-de8595509bbe" />
 
 
-13.Run the programmed sequence and verify that the object is successfully picked and placed.
 
-#RESULT:
+
+
